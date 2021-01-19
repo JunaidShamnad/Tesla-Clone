@@ -90,7 +90,6 @@ function App() {
             leftBtnLink=''
             rightBtnTxt=''
             rightBtnLink=''
-            twoButtons='false'
             />
       </div>
     </div>
