@@ -1,3 +1,6 @@
+# Preview
+![Design and Development](https://github.com/JunaidShamnad/Tesla-Clone/blob/main/Tesla-Clone.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
