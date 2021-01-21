@@ -1,5 +1,5 @@
 # Preview
-![Design and Development](https://github.com/JunaidShamnad/Tesla-Clone/blob/main/Tesla-Clone.png)
+![Tesla Home Page](https://github.com/JunaidShamnad/Tesla-Clone/blob/main/Tesla-Clone.png)
 
 # Getting Started with Create React App
 
